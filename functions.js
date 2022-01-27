@@ -28,3 +28,5 @@ console.log(firstName + " " + lastName + " " + age);
 //Creates a Random number between 0, 1. 
 
 console.log(Math.random());
+
+//
